@@ -1,3 +1,5 @@
+// ? a library to manipulate images
+
 const sharp = require('sharp')
 
 sharp('./img/gomez.jpg')

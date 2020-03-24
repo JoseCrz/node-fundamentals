@@ -1,3 +1,5 @@
+// ? A library to hash passwords
+
 const bcrypt = require('bcrypt')
 const password = 'mimibebe2020'
 
